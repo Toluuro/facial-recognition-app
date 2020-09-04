@@ -1,0 +1,9 @@
+.site {
+    color:rgb(189, 243, 243);
+	transition-property:all;
+	transition-duration:1s;
+}
+
+.site:hover { color: rgba(255, 253, 253, 0.507); }
+
+
